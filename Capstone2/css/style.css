@@ -1,0 +1,75 @@
+body{
+     background-color:  rgb(229, 223, 255);
+}
+.fs-4{
+    font-style: italic;
+    font-size: large;
+ 
+}
+#nav_header{
+    background-color: #e5dfff;
+}
+/* Navbar links color */
+#nav .nav-link {
+    color: white; /* Text color for the links */
+    color: black;
+   font-size: large;
+   font-style: italic;
+}
+
+/* Navbar active link color */
+#nav .nav-link.active {
+    background-color: rgb(231, 242, 164); /* Color for active link */
+  
+}
+
+/* Optionally, change navbar text color on hover */
+#nav .nav-link:hover {
+    color: #f1c40f; /* Color when hovered */
+}
+
+
+
+
+
+#hero{
+    background-color: aliceblue;
+}
+.butterfly{
+   border-radius: 100%;
+   
+    
+}
+
+
+.butterfly-btn{
+    background-color: rgb(231, 242, 164);
+    color: black;
+    border: dashed;
+
+ 
+}
+
+
+
+
+#ContactMe{
+    background-color: aliceblue;
+}
+
+.contact-me{
+    background-color: rgb(231, 242, 164);
+    color: black;
+    border: dashed;
+    text-align: center;
+}
+
+#footer{
+    text-align: center;
+}
+
+.bottom-container {
+    padding: 50px 0 20px;
+}
+
+

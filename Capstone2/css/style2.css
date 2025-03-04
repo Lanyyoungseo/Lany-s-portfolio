@@ -1,0 +1,102 @@
+
+/* Navbar links color */
+
+body{
+    font-size: 30px;
+}
+#nav .nav-link {
+    color: white; /* Text color for the links */
+    color: black;
+   font-size: large;
+   font-style: italic;
+}
+
+/* Navbar active link color */
+#nav .nav-link.active {
+    background-color: rgb(231, 242, 164); /* Color for active link */
+  
+}
+
+/* Optionally, change navbar text color on hover */
+#nav .nav-link:hover {
+    color: #f1c40f; /* Color when hovered */
+}
+
+
+
+h2{
+    font-size: 3rem;
+   
+}
+
+.h2-1{
+    background-color: aliceblue;
+
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+.experience {
+    margin-top: 20px;
+}
+
+.job {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.job h2 {
+    font-size: 24px;
+    color: #2e3b4e;
+    margin-bottom: 10px;
+}
+
+.date {
+    font-size: 14px;
+    color: #888;
+}
+
+.company {
+    font-size: 16px;
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.job ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    font-size: 16px;
+    color: #555;
+}
+
+.job ul li {
+    margin-bottom: 8px;
+}
